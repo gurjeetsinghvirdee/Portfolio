@@ -1,7 +1,7 @@
 export default {
     name: 'abouts',
-    title: 'Abouts',
     type: 'document',
+    title: 'Abouts',
     fileds: [
         {
             name: 'title',
