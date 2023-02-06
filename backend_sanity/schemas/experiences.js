@@ -2,7 +2,7 @@ export default {
     name: 'experiences',
     type: 'document',
     title: 'Experiences',
-    field: [
+    fields: [
         {
             name: 'year',
             title: 'Year',
